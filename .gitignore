@@ -1,3 +1,8 @@
+201602_201805/
+processed/
+raw/
+*.pdf
+
 # History files
 .Rhistory
 .Rapp.history
